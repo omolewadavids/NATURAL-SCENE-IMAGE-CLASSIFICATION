@@ -12,5 +12,5 @@ This data was initially published on [DataHack](https://datahack.analyticsvidhya
 * [Step 3](#Data Source): Download the Dataset from [DataHack](https://datahack.analyticsvidhya.com), Explore, and Transform the Training Data and upload to Amazon S3 bucket
 * [Step 4](#Training the Model): Train the Model using the provided training script **Natural_Scene_Image_Classification.ipny**   
 * [Step 5](#Model Deployment): Deploy the Model to Amazon SageMaker
-* [Step 6](#Model Validation and Integration): Validate the Model and Integrate the SageMaker Endpoints into Internet-facing Applications
+* [Step 6](#Model-Validation-and-Integration): Validate the Model and Integrate the SageMaker Endpoints into Internet-facing Applications
 * [Step 7](#Clean-up): Clean Up by deleting the Endpoint
